@@ -211,7 +211,7 @@
         "price": 0.01939223,
         "price_change_percentage_24h": 409.8,
         "market_cap": 4656660,
-        "platforms": [["ethereum", "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a"]],
+        "platforms": [["optimistic-ethereum", "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a"]],
         "tags": [],
         "trading_volume": 215658,
         "logo_url": "https://assets.coingecko.com/coins/images/29098/small/collab.png?1676566517",
