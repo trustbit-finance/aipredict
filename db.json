@@ -204,17 +204,17 @@
     },
     {
         "token_id": 6,
-        "name": "Collab.Land",
-        "symbol": "COLLAB",
+        "name": "ANGLE",
+        "symbol": "ANGLE",
         "rank": 6,
         "discovered_on": "2023-07-21T00:00:00Z",
-        "price": 0.01939223,
-        "price_change_percentage_24h": 409.8,
-        "market_cap": 4656660,
-        "platforms": [["optimism", "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a"]],
+        "price": 0.072163,
+        "price_change_percentage_24h": 147.8,
+        "market_cap": 14532228,
+        "platforms": [["etherium", "0x31429d1856ad1377a8a0079410b297e1a9e214c2"]],
         "tags": [],
-        "trading_volume": 215658,
-        "logo_url": "https://assets.coingecko.com/coins/images/29098/small/collab.png?1676566517",
+        "trading_volume": 78704,
+        "logo_url": "https://assets.coingecko.com/coins/images/19060/small/ANGLE_Token-light.png?1666774221",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -225,15 +225,15 @@
             "CoinMarketCap": "",
             "CoinGecko": ""
         },
-        "number_holders": 111760,
-        "official_web": "https://www.collab.land/",
+        "number_holders": 3136,
+        "official_web": "https://www.angle.money/",
         "order": 6,
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/Collab_Land_",
-            "discord": "https://discord.com/invite/collabland",
-            "etherscan": "https://optimistic.etherscan.io/token/0x8B21e9b7dAF2c4325bf3D18c1BeB79A347fE902A"
+            "twitter": "https://twitter.com/AngleProtocol",
+            "discord": "https://discord.gg/bsfZjvgx2s",
+            "etherscan": "https://etherscan.io/token/0x31429d1856ad1377a8a0079410b297e1a9e214c2"
         }
     },
     {
