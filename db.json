@@ -67,40 +67,7 @@
             "bscscan": "https://etherscan.io/token/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
         }
     },
-    {
-        "token_id": 2,
-        "name": "IX Swap",
-        "symbol": "IXS",
-        "rank": 2,
-        "discovered_on": "2023-07-23T00:00:00Z",
-        "price": 0.02281571,
-        "price_change_percentage_24h": 18.6,
-        "market_cap": 3014118,
-        "platforms": [["polygon", "0x73d7c860998ca3c01ce8c808f5577d94d545d1b4"]],
-        "tags": [],
-        "trading_volume": 353894,
-        "logo_url": "https://assets.coingecko.com/coins/images/18069/small/ixswap.PNG?1630375152",
-        "discovered_details": {
-            "market_cap_discovered": 0,
-            "price_discovered": 0,
-            "number_holders_discovered": 0,
-            "trading_volume_discovered": 0
-        },
-        "id_of_sources": {
-            "CoinMarketCap": "",
-            "CoinGecko": ""
-        },
-        "number_holders": 982,
-        "official_web": "http://ixswap.io/",
-        "order": 2,
-        "predicted_date": 0,
-        "present_on_chains": [],
-        "social_urls": {
-            "twitter": "https://twitter.com/IxSwap",
-            "telegram": "https://t.me/ixswapofficial",
-            "etherscan": "https://etherscan.io/token/0x73d7c860998ca3c01ce8c808f5577d94d545d1b4"
-        }
-    },
+
     {
         "token_id": 3,
         "name": "StormX",
@@ -237,40 +204,7 @@
             "etherscan": "https://etherscan.io/token/0xee9801669c6138e84bd50deb500827b776777d28"
         }
     },
-    {
-        "token_id": 7,
-        "name": "Rebel Bots",
-        "symbol": "RBLS",
-        "rank": 7,
-        "discovered_on": "2023-07-23T00:00:00Z",
-        "price": 0.062292,
-        "price_change_percentage_24h": 11.0,
-        "market_cap": 14567079,
-        "platforms": [["polygon", "0xe26cda27c13f4f87cffc2f437c5900b27ebb5bbb"]],
-        "tags": [],
-        "trading_volume": 71378,
-        "logo_url": "https://assets.coingecko.com/coins/images/24094/small/logo-footer-356.88b37f33.png?1646364881",
-        "discovered_details": {
-            "market_cap_discovered": 0,
-            "price_discovered": 0,
-            "number_holders_discovered": 0,
-            "trading_volume_discovered": 0
-        },
-        "id_of_sources": {
-            "CoinMarketCap": "",
-            "CoinGecko": ""
-        },
-        "number_holders": 3741,
-        "official_web": "https://rebelbots.com/",
-        "order": 7,
-        "predicted_date": 0,
-        "present_on_chains": [],
-        "social_urls": {
-            "twitter": "https://twitter.com/REBEL_BOTS",
-            "telegram": "https://t.me/RebelBotsXoilWars",
-            "etherscan": "https://polygonscan.com/token/0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB"
-        }
-    },
+
     {
         "token_id": 8,
         "name": "Carbon Browser",
