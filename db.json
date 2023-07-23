@@ -103,17 +103,17 @@
     },
     {
         "token_id": 3,
-        "name": "ZambesiGold",
-        "symbol": "ZGD",
+        "name": "StormX",
+        "symbol": "STMX",
         "rank": 3,
         "discovered_on": "2023-07-23T00:00:00Z",
-        "price": 0.421153,
-        "price_change_percentage_24h": 26.1,
-        "market_cap": 118788347,
-        "platforms": [["ethereum", "0x04fa0d235c4abf4bcf4787af4cf447de572ef828"]],
+        "price": 0.00890494,
+        "price_change_percentage_24h": 60.5,
+        "market_cap": 97641108,
+        "platforms": [["ethereum", "0xa62cc35625b0c8dc1faea39d33625bb4c15bd71c"]],
         "tags": [],
-        "trading_volume": 17654300,
-        "logo_url": "https://assets.coingecko.com/coins/images/25544/small/lD1w22TUaUn2AkWmkgI5WWSufl5kZ-1Gu3s-g-2A9qZ-DyW5g9UrrBRaOxKp5fcLEghB2VR-XBxw-4mu4M76SjH3YDCvh27CH4RTfKAbtlrEWHNP7oHN9Y6eBrqwfGu_-M0SAJf-dqDRnMNLWIxP8hKtAxaIFR0_JmxdInlMpBJa2WONniOHCeGomlyYeGfBKa4bYytvpIKDwZNBC-b_-enFwb.jpg?1652326768",
+        "trading_volume": 112814685,
+        "logo_url": "https://assets.coingecko.com/coins/images/1369/small/StormX.png?1603113002",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -130,9 +130,9 @@
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/ZGDToken",
-            "telegram": "https://t.me/+rS2oAlGgMWU4ZDc0",
-            "bscscan": "https://bscscan.com/token/0xbf27da33A58de2Bc6Eb1C7daB6CF2e84e825D7dc"
+            "twitter": "https://twitter.com/stormxio",
+            "telegram": "https://t.me/stormxapp",
+            "etherscan": "https://etherscan.io/token/0xa62cc35625B0C8dc1fAEA39d33625Bb4C15bD71C"
         }
     },
     {
