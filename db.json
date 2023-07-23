@@ -42,7 +42,7 @@
         "price": 11.85,
         "price_change_percentage_24h": 0.1,
         "market_cap": 45053066,
-        "platforms": [["binance-smart-chain", "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"]],
+        "platforms": [["ethereum", "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"]],
         "tags": [],
         "trading_volume": 95654,
         "logo_url": "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
