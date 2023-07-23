@@ -200,7 +200,7 @@
         "social_urls": {
             "twitter": "https://twitter.com/auroryproject",
             "discord": "https://t.me/aurory_project",
-            "solscan": "https://solscan.io/token/AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP#holders"
+            "etherscan": "https://solscan.io/token/AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP#holders"
         }
     },
     {
@@ -268,7 +268,7 @@
         "social_urls": {
             "twitter": "https://twitter.com/REBEL_BOTS",
             "telegram": "https://t.me/RebelBotsXoilWars",
-            "polygonscan": "https://polygonscan.com/token/0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB"
+            "etherscan": "https://polygonscan.com/token/0xe26cda27c13f4f87cFFc2F437C5900b27eBb5bbB"
         }
     },
     {
