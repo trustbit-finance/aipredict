@@ -205,17 +205,17 @@
     },
     {
         "token_id": 6,
-        "name": "O3 Swap",
-        "symbol": "O3",
+        "name": "Cap",
+        "symbol": "CAP",
         "rank": 6,
-        "discovered_on": "2023-07-23T00:00:00Z",
-        "price": 0.03918034,
-        "price_change_percentage_24h": 2.5,
-        "market_cap": 1403971,
-        "platforms": [["binance-smart-chain", "0xee9801669c6138e84bd50deb500827b776777d28"]],
+        "discovered_on": "2023-07-30T00:00:00Z",
+        "price": 131.49,
+        "price_change_percentage_24h": 9.5,
+        "market_cap": 13144998,
+        "platforms": [["arbitrum", "0x031d35296154279dc1984dcd93e392b1f946737b"]],
         "tags": [],
-        "trading_volume": 420735,
-        "logo_url": "https://assets.coingecko.com/coins/images/15460/small/o3.png?1620904316",
+        "trading_volume": 28523,
+        "logo_url": "https://assets.coingecko.com/coins/images/11775/small/cap.png?1673549056",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -227,14 +227,14 @@
             "CoinGecko": ""
         },
         "number_holders": 5639,
-        "official_web": "https://o3swap.com/",
+        "official_web": "https://www.cap.io/",
         "order": 6,
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/O3_Labs",
-            "telegram": "https://t.me/O3LabsOfficial",
-            "etherscan": "https://etherscan.io/token/0xee9801669c6138e84bd50deb500827b776777d28"
+            "twitter": "https://twitter.com/CapDotFinance",
+            "discord": "https://discord.com/invite/zkdr8vnujz",
+            "arbiscan": "https://arbiscan.io/token/0x031d35296154279dc1984dcd93e392b1f946737b"
         }
     },
     {
