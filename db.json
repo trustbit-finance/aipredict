@@ -35,17 +35,17 @@
     },
     {
         "token_id": 1,
-        "name": "MUX Protocol",
-        "symbol": "MCB",
+        "name": "Polytrade",
+        "symbol": "TRADE",
         "rank": 1,
-        "discovered_on": "2023-07-23T00:00:00Z",
-        "price": 11.85,
-        "price_change_percentage_24h": 0.1,
-        "market_cap": 45053066,
-        "platforms": [["ethereum", "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"]],
+        "discovered_on": "2023-07-30T00:00:00Z",
+        "price": 0.117152,
+        "price_change_percentage_24h": 9.4,
+        "market_cap": 2871747,
+        "platforms": [["ethereum", "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1"]],
         "tags": [],
-        "trading_volume": 95654,
-        "logo_url": "https://assets.coingecko.com/coins/images/11796/small/mux.jpg?1660125796",
+        "trading_volume": 97886,
+        "logo_url": "https://assets.coingecko.com/coins/images/16416/small/Logo_colored_200.png?1623979654",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -56,15 +56,15 @@
             "CoinMarketCap": "",
             "CoinGecko": ""
         },
-        "number_holders": 2739,
-        "official_web": "https://mux.network/",
+        "number_holders": 349,
+        "official_web": "https://polytrade.finance/",
         "order": 1,
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/muxprotocol",
-            "reddit": "https://reddit.com/r/MCDEX",
-            "bscscan": "https://etherscan.io/token/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+            "twitter": "https://twitter.com/Polytrade_fin",
+            "telegram": "https://t.me/Polytrade_Finance",
+            "etherscan": "https://etherscan.io/token/0x6e5970DBd6fc7eb1f29C6D2eDF2bC4c36124C0C1"
         }
     },
     {
