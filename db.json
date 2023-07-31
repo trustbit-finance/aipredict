@@ -137,17 +137,17 @@
     },
     {
         "token_id": 4,
-        "name": "API3",
-        "symbol": "API3",
+        "name": "APYSwap",
+        "symbol": "APYS",
         "rank": 4,
-        "discovered_on": "2023-07-21T00:00:00Z",
-        "price": 1.10,
-        "price_change_percentage_24h": 2.6,
-        "market_cap": 95017362,
-        "platforms": [["ethereum", "0x0b38210ea11411557c13457d4da7dc6ea731b88a"]],
+        "discovered_on": "2023-07-30T00:00:00Z",
+        "price": 0.00674024,
+        "price_change_percentage_24h": 3.1,
+        "market_cap": 65833,
+        "platforms": [["ethereum", "0xf7413489c474ca4399eee604716c72879eea3615"]],
         "tags": [],
-        "trading_volume": 9157050,
-        "logo_url": "https://assets.coingecko.com/coins/images/13256/small/api3.jpg?1606751424",
+        "trading_volume": 22126,
+        "logo_url": "https://assets.coingecko.com/coins/images/14163/small/apys.png?1635831990",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -158,15 +158,15 @@
             "CoinMarketCap": "",
             "CoinGecko": ""
         },
-        "number_holders": 526,
-        "official_web": "https://api3.org/",
+        "number_holders": 2753,
+        "official_web": "https://apyswap.com/",
         "order": 4,
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/API3DAO",
-            "reddit": "https://reddit.com/r/API3",
-            "etherscan": "https://etherscan.io/token/0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
+            "twitter": "https://twitter.com/apyswap",
+            "reddit": "https://t.me/apyswapcom",
+            "etherscan": "https://etherscan.io/token/0xf7413489c474ca4399eee604716c72879eea3615"
         }
     },
     {
