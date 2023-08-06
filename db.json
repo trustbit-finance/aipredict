@@ -35,17 +35,17 @@
     },
     {
         "token_id": 1,
-        "name": "Polytrade",
-        "symbol": "TRADE",
+        "name": "API3",
+        "symbol": "API3",
         "rank": 1,
-        "discovered_on": "2023-07-30T00:00:00Z",
-        "price": 0.117152,
-        "price_change_percentage_24h": 9.4,
-        "market_cap": 2871747,
-        "platforms": [["ethereum", "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1"]],
+        "discovered_on": "2023-08-06T00:00:00Z",
+        "price": 1.34,
+        "price_change_percentage_24h": 53.5,
+        "market_cap": 115711560,
+        "platforms": [["ethereum", "0x0b38210ea11411557c13457d4da7dc6ea731b88a"]],
         "tags": [],
-        "trading_volume": 97886,
-        "logo_url": "https://assets.coingecko.com/coins/images/16416/small/Logo_colored_200.png?1623979654",
+        "trading_volume": 141097642,
+        "logo_url": "https://assets.coingecko.com/coins/images/13256/small/api3.jpg?1606751424",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -56,15 +56,15 @@
             "CoinMarketCap": "",
             "CoinGecko": ""
         },
-        "number_holders": 349,
-        "official_web": "https://polytrade.finance/",
+        "number_holders": 21038,
+        "official_web": "https://api3.org/",
         "order": 1,
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/Polytrade_fin",
-            "telegram": "https://t.me/Polytrade_Finance",
-            "etherscan": "https://etherscan.io/token/0x6e5970DBd6fc7eb1f29C6D2eDF2bC4c36124C0C1"
+            "twitter": "https://twitter.com/API3DAO",
+            "telegram": "https://t.me/API3DAO",
+            "etherscan": "https://etherscan.io/token/0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
         }
     },
     {
