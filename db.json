@@ -69,17 +69,17 @@
     },
     {
         "token_id": 2,
-        "name": "Shido",
-        "symbol": "SHIDO",
+        "name": "StarLink",
+        "symbol": "STARL",
         "rank": 2,
-        "discovered_on": "2023-07-30T00:00:00Z",
-        "price": 0.00017066,
-        "price_change_percentage_24h": 22.1,
-        "market_cap": 3014118,
-        "platforms": [["etherium", "0xed354cae598148846aa9694254c854fc7051163c"]],
+        "discovered_on": "2023-08-06T00:00:00Z",
+        "price": 0.000000886491,
+        "price_change_percentage_24h": 9.5,
+        "market_cap": 8863477,
+        "platforms": [["etherium", "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24"]],
         "tags": [],
-        "trading_volume": 308011,
-        "logo_url": "https://assets.coingecko.com/coins/images/26674/small/Shido.png?1667361249",
+        "trading_volume": 2480048,
+        "logo_url": "https://assets.coingecko.com/coins/images/16824/small/ZxJbRWJ.png?1625177900",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -90,15 +90,15 @@
             "CoinMarketCap": "",
             "CoinGecko": ""
         },
-        "number_holders": 2036,
-        "official_web": "https://www.shido.finance/",
+        "number_holders": 34635,
+        "official_web": "https://www.starlproject.com/",
         "order": 2,
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/shidofinance",
-            "telegram": "https://t.me/shidofinance",
-            "etherscan": "https://etherscan.io/token/0xeD354cAE598148846aa9694254C854fc7051163c"
+            "twitter": "https://twitter.com/starlinketh",
+            "telegram": "https://t.me/starlinkofficial",
+            "etherscan": "https://etherscan.io/token/0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24"
         }
     },
     {
