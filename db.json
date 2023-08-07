@@ -171,17 +171,17 @@
     },
     {
         "token_id": 5,
-        "name": "0x0.ai: AI Smart Contract",
-        "symbol": "0X0",
+        "name": "Geojam",
+        "symbol": "JAM",
         "rank": 5,
-        "discovered_on": "2023-07-30T00:00:00Z",
-        "price": 0.03288315,
-        "price_change_percentage_24h": 18.5,
-        "market_cap": 29351078,
-        "platforms": [["etherium", "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5"]],
+        "discovered_on": "2023-08-07T00:00:00Z",
+        "price": 0.00061195,
+        "price_change_percentage_24h": 4.0,
+        "market_cap": 2153957,
+        "platforms": [["etherium", "0x23894dc9da6c94ecb439911caf7d337746575a72"]],
         "tags": [],
-        "trading_volume": 677255,
-        "logo_url": "https://assets.coingecko.com/coins/images/28880/small/0x0.png?1675140105",
+        "trading_volume": 459144,
+        "logo_url": "https://assets.coingecko.com/coins/images/24648/small/200px_Transparent_Bubble_Token_Icon.png?1668597490",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -193,14 +193,14 @@
             "CoinGecko": ""
         },
         "number_holders": 17130,
-        "official_web": "https://0x0.ai/",
+        "official_web": "https://geojam.com/",
         "order": 5,
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/0x0audits",
-            "telegram": "https://t.me/Ai0x0",
-            "etherscan": "https://etherscan.io/token/0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5"
+            "twitter": "https://twitter.com/geojamofficial",
+            "telegram": "https://t.me/geojamofficial",
+            "etherscan": "https://etherscan.io/token/0x23894DC9da6c94ECb439911cAF7d337746575A72"
         }
     },
     {
