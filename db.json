@@ -103,17 +103,17 @@
     },
     {
         "token_id": 3,
-        "name": "BIDZ Coin",
-        "symbol": "BIDZ",
+        "name": "Dora Factory",
+        "symbol": "DORA",
         "rank": 3,
-        "discovered_on": "2023-07-30T00:00:00Z",
-        "price": 0.01407901,
-        "price_change_percentage_24h": 20.3,
-        "market_cap": 97641108,
-        "platforms": [["binance-smart-chain", "0xc2ebaa5f640b30c0d6712a6e0656fb816c10a7d4"]],
+        "discovered_on": "2023-08-07T00:00:00Z",
+        "price": 2.19,
+        "price_change_percentage_24h": 36.2,
+        "market_cap": 7924661,
+        "platforms": [["etherium", "0xbc4171f45ef0ef66e76f979df021a34b46dcc81d"]],
         "tags": [],
-        "trading_volume": 707895,
-        "logo_url": "https://assets.coingecko.com/coins/images/26177/small/O99u27zU_400x400.png?1656380941",
+        "trading_volume": 1621976,
+        "logo_url": "https://assets.coingecko.com/coins/images/14478/small/dora_logo.jpg?1616410086",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -125,14 +125,14 @@
             "CoinGecko": ""
         },
         "number_holders": 5011,
-        "official_web": "https://bidz.store/",
+        "official_web": "https://dorafactory.org/",
         "order": 3,
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/bidzcoin",
-            "telegram": "https://t.me/+G9Rr5xxcA2ZjYmI5",
-            "bscscan": "https://bscscan.com/token/0xc2ebaa5f640b30c0d6712a6e0656fb816c10a7d4"
+            "twitter": "https://twitter.com/DoraFactory",
+            "telegram": "https://t.me/dorafactory",
+            "etherscan": "https://etherscan.io/token/0xbc4171f45EF0EF66E76F979dF021a34B46DCc81d"
         }
     },
     {
