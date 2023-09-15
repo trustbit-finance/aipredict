@@ -69,17 +69,17 @@
     },
     {
         "token_id": 2,
-        "name": "StarLink",
-        "symbol": "STARL",
+        "name": "Kommunitas",
+        "symbol": "KOM",
         "rank": 2,
-        "discovered_on": "2023-08-06T00:00:00Z",
-        "price": 0.000000886491,
-        "price_change_percentage_24h": 9.5,
-        "market_cap": 8863477,
-        "platforms": [["etherium", "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24"]],
+        "discovered_on": "2023-09-15T00:00:00Z",
+        "price": 0.00069523,
+        "price_change_percentage_24h": 17.1,
+        "market_cap": 1125449,
+        "platforms": [["polygon", "0xc004e2318722ea2b15499d6375905d75ee5390b8"]],
         "tags": [],
-        "trading_volume": 2480048,
-        "logo_url": "https://assets.coingecko.com/coins/images/16824/small/ZxJbRWJ.png?1625177900",
+        "trading_volume": 662275,
+        "logo_url": "https://assets.coingecko.com/coins/images/17483/small/1_f1S3h57YLT1e1cl8g7RJpw_2x.jpeg?1627956421",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -96,9 +96,9 @@
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/starlinketh",
-            "telegram": "https://t.me/starlinkofficial",
-            "etherscan": "https://etherscan.io/token/0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24"
+            "twitter": "https://twitter.com/kommunitas1",
+            "telegram": "https://t.me/Kommunitas",
+            "polyscan": "https://polygonscan.com/token/0xc004e2318722ea2b15499d6375905d75ee5390b8"
         }
     },
     {
