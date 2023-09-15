@@ -205,17 +205,17 @@
     },
     {
         "token_id": 6,
-        "name": "Cap",
-        "symbol": "CAP",
+        "name": "LimeWire",
+        "symbol": "LMWR",
         "rank": 6,
-        "discovered_on": "2023-07-30T00:00:00Z",
-        "price": 131.49,
+        "discovered_on": "2023-09-15T00:00:00Z",
+        "price": 0.087671,
         "price_change_percentage_24h": 9.5,
-        "market_cap": 13144998,
-        "platforms": [["arbitrum", "0x031d35296154279dc1984dcd93e392b1f946737b"]],
+        "market_cap": 4181201,
+        "platforms": [["etherium", "0x628a3b2e302c7e896acc432d2d0dd22b6cb9bc88"]],
         "tags": [],
-        "trading_volume": 28523,
-        "logo_url": "https://assets.coingecko.com/coins/images/11775/small/cap.png?1673549056",
+        "trading_volume": 120511,
+        "logo_url": "https://assets.coingecko.com/coins/images/30356/small/LimeWire_Logo_Icon_200x200_%281%29.png?1684230574",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -227,14 +227,14 @@
             "CoinGecko": ""
         },
         "number_holders": 5639,
-        "official_web": "https://www.cap.io/",
+        "official_web": "https://limewire.com/u/home",
         "order": 6,
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/CapDotFinance",
-            "discord": "https://discord.com/invite/zkdr8vnujz",
-            "arbiscan": "https://arbiscan.io/token/0x031d35296154279dc1984dcd93e392b1f946737b"
+            "twitter": "https://twitter.com/limewire",
+            "discord": "https://t.me/limewire",
+            "arbiscan": "https://etherscan.io/token/0x628a3b2e302c7e896acc432d2d0dd22b6cb9bc88"
         }
     },
     {
