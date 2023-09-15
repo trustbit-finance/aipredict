@@ -35,17 +35,17 @@
     },
     {
         "token_id": 1,
-        "name": "API3",
-        "symbol": "API3",
+        "name": "JUNO",
+        "symbol": "JUNO",
         "rank": 1,
-        "discovered_on": "2023-08-06T00:00:00Z",
-        "price": 1.34,
-        "price_change_percentage_24h": 53.5,
-        "market_cap": 115711560,
-        "platforms": [["ethereum", "0x0b38210ea11411557c13457d4da7dc6ea731b88a"]],
+        "discovered_on": "2023-09-15T00:00:00Z",
+        "price": 0.199350,
+        "price_change_percentage_24h": 30.0,
+        "market_cap": 15804487,
+        "platforms": [["junonetwork", "46B44899322F3CD854D2D46DEEF881958467CDD4B3B10086DA49296BBED94BED"]],
         "tags": [],
-        "trading_volume": 141097642,
-        "logo_url": "https://assets.coingecko.com/coins/images/13256/small/api3.jpg?1606751424",
+        "trading_volume": 391652,
+        "logo_url": "https://assets.coingecko.com/coins/images/19249/small/Juno_Logo_%28Salmon%29_%282%29.png?1676455333",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -57,14 +57,14 @@
             "CoinGecko": ""
         },
         "number_holders": 21038,
-        "official_web": "https://api3.org/",
+        "official_web": "https://www.junonetwork.io/",
         "order": 1,
         "predicted_date": 0,
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/API3DAO",
-            "telegram": "https://t.me/API3DAO",
-            "etherscan": "https://etherscan.io/token/0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
+            "twitter": "https://twitter.com/JunoNetwork",
+            "telegram": "https://t.me/JunoNetwork",
+            "mintscan": "https://www.mintscan.io/juno"
         }
     },
     {
