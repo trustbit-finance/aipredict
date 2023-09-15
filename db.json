@@ -1,17 +1,17 @@
 [ 
     {
         "token_id": 0,
-        "name": "HoDooi.com",
-        "symbol": "HOD",
+        "name": "Carry",
+        "symbol": "CRE",
         "rank": 0,
-        "discovered_on": "2023-08-06T00:00:00Z",
-        "price": 0.00169342,
-        "price_change_percentage_24h": 22.5,
-        "market_cap": 1862168,
-        "platforms": [["binance-smart-chain", "0x19a4866a85c652eb4a2ed44c42e4cb2863a62d51"]],
+        "discovered_on": "2023-09-15T00:00:00Z",
+        "price": 0.00413654,
+        "price_change_percentage_24h": 5.2,
+        "market_cap": 36604006,
+        "platforms": [["ethereum", "0x115ec79f1de567ec68b7ae7eda501b406626478e"]],
         "tags": [],
-        "trading_volume": 310958,
-        "logo_url": "https://assets.coingecko.com/coins/images/16301/small/Monogram_2x-100.jpg?1645205976",
+        "trading_volume": 58030571,
+        "logo_url": "https://assets.coingecko.com/coins/images/3994/small/Carry.png?1592402610",
         "discovered_details": {
             "market_cap_discovered": 0,
             "price_discovered": 0,
@@ -22,15 +22,15 @@
             "CoinMarketCap": "",
             "CoinGecko": ""
         },
-        "number_holders": 11362,
-        "official_web": "https://hodooi.com/",
+        "number_holders": 29578,
+        "official_web": "https://carryprotocol.io/",
         "order": 0,
-        "predicted_date": "2023-08-06T00:00:00Z",
+        "predicted_date": "2023-09-15T00:00:00Z",
         "present_on_chains": [],
         "social_urls": {
-            "twitter": "https://twitter.com/hodooi",
-            "telegram": "https://t.me/hodooi",
-            "bscscan": "https://bscscan.com/token/0x19A4866a85c652EB4a2ED44c42e4CB2863a62D51"
+            "twitter": "https://twitter.com/carryprotocol",
+            "telegram": "https://t.me/carryprotocol",
+            "bscscan": "https://etherscan.io/token/0x115eC79F1de567eC68B7AE7eDA501b406626478e"
         }
     },
     {
